@@ -1,4 +1,4 @@
-# 👋 Hi there — I'm **Nguyễn Quốc Quy**
+# 👋 Hi there — I'm **Nguyen Quoc Quy**
 
 ### 🧑‍💻 Frontend & Mobile Developer | Passionate about scalable & user-focused apps
 
